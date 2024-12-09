@@ -50,6 +50,6 @@ Tecnologías Utilizadas
     python manage.py runserver
     
 
- Acceso al sitio
+
 
 Accede al sitio localmente en (http://127.0.0.1:8000/).
